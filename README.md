@@ -5,12 +5,12 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=nodedotjs)](https://nodejs.org/)
 
 <div align="center">
-  <img src="./screenshots/1.jpg" width="32%" alt="Home Page">
-  <img src="./screenshots/2.jpg" width="32%" alt="Product Listing"> 
-  <img src="./screenshots/3.jpg" width="32%" alt="Product Detail">
-  <img src="./screenshots/4.jpg" width="32%" alt="Shopping Cart">
-  <img src="./screenshots/5.jpg" width="32%" alt="Checkout">
-  <img src="./screenshots/6.jpg" width="32%" alt="Admin Panel">
+  <img src="./Screenshots/1.jpg" width="32%" alt="Home Page">
+  <img src="./Screenshots/2.jpg" width="32%" alt="Product Listing"> 
+  <img src="./Screenshots/3.jpg" width="32%" alt="Product Detail">
+  <img src="./Screenshots/4.jpg" width="32%" alt="Shopping Cart">
+  <img src="./Screenshots/5.jpg" width="32%" alt="Checkout">
+  <img src="./Screenshots/6.jpg" width="32%" alt="Admin Panel">
 </div>
 
 ## 🚀 Quick Start
