@@ -1,2 +1,28 @@
-# React-Ecommerce-Store
-Full-stack e-commerce website with React frontend and Node.js backend. Features product listings, cart functionality, and user authentication. Built with Vite, CSS and MySQL backend.
+# 🛒 React E-Commerce (MySQL Database Project)
+
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=nodedotjs)](https://nodejs.org/)
+
+<div align="center">
+  <img src="./screenshots/1.jpg" width="32%" alt="Home Page">
+  <img src="./screenshots/2.jpg" width="32%" alt="Product Listing"> 
+  <img src="./screenshots/3.jpg" width="32%" alt="Product Detail">
+  <img src="./screenshots/4.jpg" width="32%" alt="Shopping Cart">
+  <img src="./screenshots/5.jpg" width="32%" alt="Checkout">
+  <img src="./screenshots/6.jpg" width="32%" alt="Admin Panel">
+</div>
+
+## 🚀 Quick Start
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Configure MySQL credentials in backend/.env
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=ecommerce_db
+
+# 3. Run both frontend and backend
+npm run dev
