@@ -43,7 +43,7 @@ npm install
 # 2. Configure MySQL credentials in backend/.env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
+DB_PASSWORD=yourpassword (you are gonna use your own MySql password)
 DB_NAME=ecommerce_db
 
 # 3. Run both frontend and backend
